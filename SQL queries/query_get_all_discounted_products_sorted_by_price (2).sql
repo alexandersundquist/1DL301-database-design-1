@@ -1,0 +1,1 @@
+SELECT * FROM ht22_1_project_group_32.PRODUCT where discount_percent>0 order by discount_percent desc; 
